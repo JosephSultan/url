@@ -29,10 +29,7 @@ export default () => {
                 <section>
                     <ul>
                         <h2>{ lang.footer.useful }</h2>
-                        <li><a href="https://github.com/anonurl">{ lang.footer.source }</a></li>
-                        <li><a href="mailto:z3ox1s@protonmail.com">{ lang.footer.contact }</a></li>
-                        <li><a href="https://flaticon.com">{ lang.footer.images }</a></li>
-                        <li><a href="https://fonts.google.com/icons">{ lang.footer.icons }</a></li>
+                        <li><a href="https://www.linkedin.com/in/joseph-sultan/">{ lang.footer.Linkedin }</a></li>
                     </ul>
                     <ul>
                         <h2>{ lang.footer.navigate }</h2>
@@ -42,7 +39,7 @@ export default () => {
                         <li><Link to="/settings">{ lang.footer.settings }</Link></li>
                     </ul>
                 </section>
-                <p>&copy; 2022 AnonURL | { lang.footer.message } <a href="https://github.com/z3oxs">z3oxs</a></p>
+                <p>&copy; 2022 Bat-Shortner | { lang.footer.message } <a href="https://www.linkedin.com/in/joseph-sultan">Sultan</a></p>
             </Footer>
         </ThemeProvider>
     );
