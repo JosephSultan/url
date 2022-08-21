@@ -29,7 +29,7 @@ export default () => {
                 <section>
                     <ul>
                         <h2>{ lang.footer.useful }</h2>
-                        <li><a href="https://www.linkedin.com/in/joseph-sultan/">{ lang.footer.Linkedin }</a></li>
+                        <li><a href="https://www.linkedin.com/in/joseph-sultan/">{ lang.footer.contact }</a></li>
                     </ul>
                     <ul>
                         <h2>{ lang.footer.navigate }</h2>
