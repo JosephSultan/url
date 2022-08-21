@@ -30,7 +30,7 @@ export default () => {
                     <ul>
                         <h2>{ lang.footer.useful }</h2>
                         <li><a href="https://www.linkedin.com/in/joseph-sultan/">{ lang.footer.contact }</a></li>
-                        <li><a href="https://www.linkedin.com/">{ lang.footer.support }</a></li>
+                        <li><a href="https://u24.gov.ua/">{ lang.footer.support }</a></li>
                     </ul>
                     <ul>
                         <h2>{ lang.footer.navigate }</h2>
