@@ -1,8 +1,8 @@
 export const en = {
     footer: {
-        useful: 'useful',
-        contact: 'contact',
-        support: 'support ua',
+        useful: 'Useful',
+        contact: 'Contact',
+        support: 'Support 🇺🇦',
         navigate: 'Navigate',
         home: 'Home',
         track: 'Track',
