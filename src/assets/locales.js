@@ -1,16 +1,13 @@
 export const en = {
     footer: {
-        useful: 'Useful',
-        source: 'Source',
-        contact: 'Contact',
-        images: 'Images',
-        icons: 'Icons',
+        useful: 'Contact',
+        source: 'Support 🇺🇦',
         navigate: 'Navigate',
         home: 'Home',
         track: 'Track',
         report: 'Report',
         settings: 'Settings',
-        message: "Made with 💜 by "
+        message: "Made with ❤️ by "
     },
     home: { 
         shortenerTitle: "Anonymous, free and open-source",
@@ -19,7 +16,7 @@ export const en = {
         button: "Shorten",
         invalid: "This URL apparently does'nt exists",
         shortened: "Your shortened URL: ",
-        whyuseTitle: "Why use AnonURL",
+        whyuseTitle: "Why use Bat-Shortner",
         whyuseSubTitle: "Anonymous, free, open-source, easy-to-use, nothing about logs, security improved...",
         anonymousCard: "We don't keep access logs and who created any shortened URL",
         trackCard: "Suspicious of any URL? Check all about on ",
